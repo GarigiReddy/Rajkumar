@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[testcase is pass,product successful]]>
+    </line>
+    <line>
+      <![CDATA[test case pass,campaingn pass]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59368" started-at="2022-07-15T10:52:38 IST" finished-at="2022-07-15T10:53:37 IST">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateCampaignWithProductPomTest.CreateproductwithCampaigtestngTest()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="CreateproductwithCampaigtestngTest" class="Comcast.mavenCampaign.CreateCampaignWithProductPomTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test name="Default test" duration-ms="59368" started-at="2022-07-15T10:52:38 IST" finished-at="2022-07-15T10:53:37 IST">
+      <class name="Comcast.mavenCampaign.CreateCampaignWithProductPomTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="configBS" is-config="true" duration-ms="11" started-at="2022-07-15T10:52:38 IST" finished-at="2022-07-15T10:52:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="configBC" is-config="true" duration-ms="5069" started-at="2022-07-15T10:52:38 IST" finished-at="2022-07-15T10:52:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="configBM" is-config="true" duration-ms="11997" started-at="2022-07-15T10:52:43 IST" finished-at="2022-07-15T10:52:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="CreateproductwithCampaigtestngTest()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="CreateproductwithCampaigtestngTest" duration-ms="37576" started-at="2022-07-15T10:52:55 IST" finished-at="2022-07-15T10:53:33 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[testcase is pass,product successful]]>
+            </line>
+            <line>
+              <![CDATA[test case pass,campaingn pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateproductwithCampaigtestngTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="configAM" is-config="true" duration-ms="3496" started-at="2022-07-15T10:53:33 IST" finished-at="2022-07-15T10:53:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="configAC" is-config="true" duration-ms="1134" started-at="2022-07-15T10:53:36 IST" finished-at="2022-07-15T10:53:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:Comcast.mavenCampaign.CreateCampaignWithProductPomTest@12cdcf4]" name="configAS" is-config="true" duration-ms="2" started-at="2022-07-15T10:53:37 IST" finished-at="2022-07-15T10:53:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- Comcast.mavenCampaign.CreateCampaignWithProductPomTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
